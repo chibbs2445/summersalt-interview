@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/summersalt-interview/static/css/main.8ab235b3.chunk.css",
+    "main.js": "/summersalt-interview/static/js/main.2ed1d953.chunk.js",
+    "main.js.map": "/summersalt-interview/static/js/main.2ed1d953.chunk.js.map",
+    "runtime-main.js": "/summersalt-interview/static/js/runtime-main.8d7a4cac.js",
+    "runtime-main.js.map": "/summersalt-interview/static/js/runtime-main.8d7a4cac.js.map",
+    "static/js/2.f26aa3d7.chunk.js": "/summersalt-interview/static/js/2.f26aa3d7.chunk.js",
+    "static/js/2.f26aa3d7.chunk.js.map": "/summersalt-interview/static/js/2.f26aa3d7.chunk.js.map",
+    "index.html": "/summersalt-interview/index.html",
+    "precache-manifest.4cbe061c637ee57cacf0ffb7fd92b1de.js": "/summersalt-interview/precache-manifest.4cbe061c637ee57cacf0ffb7fd92b1de.js",
+    "service-worker.js": "/summersalt-interview/service-worker.js",
+    "static/css/main.8ab235b3.chunk.css.map": "/summersalt-interview/static/css/main.8ab235b3.chunk.css.map",
+    "static/js/2.f26aa3d7.chunk.js.LICENSE.txt": "/summersalt-interview/static/js/2.f26aa3d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7a4cac.js",
+    "static/js/2.f26aa3d7.chunk.js",
+    "static/css/main.8ab235b3.chunk.css",
+    "static/js/main.2ed1d953.chunk.js"
+  ]
+}
